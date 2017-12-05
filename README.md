@@ -2,7 +2,7 @@
 
 ## Common
 
-This is an implementation of the Ethereum ERC20 smart-contract is used by project MINEBLOC
+This is an implementation of the Ethereum ERC20 smart-contract is used by project MINEBLOC.org
 
 <b>Plugins / 3rd party tools:</b>
 
